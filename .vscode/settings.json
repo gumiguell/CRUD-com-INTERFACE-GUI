@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Concessionaria/lib/sqljdbc4.jar"
+    ]
+}
